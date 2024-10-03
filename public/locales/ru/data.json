@@ -1,0 +1,15 @@
+{
+    "aboutUs": {
+        "description": "Описвние на русском языке"
+    },
+    "services": [
+        {
+            "id": "drilling-water-wells",
+            "title": "Бурение водных скважин"
+        },
+        {
+            "id": "arrangement-of-water-wells",
+            "title": "Обустройство водных скважин"
+        }
+    ]
+}

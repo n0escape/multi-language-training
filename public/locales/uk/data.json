@@ -1,0 +1,15 @@
+{
+    "aboutUs": {
+        "description": "Опис на українській мові"
+    },
+    "services": [
+        {
+            "id": "drilling-water-wells",
+            "title": "Буріння свердловин на воду"
+        },
+        {
+            "id": "arrangement-of-water-wells",
+            "title": "Облаштування свердловин на воду"
+        }
+    ]
+}
